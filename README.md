@@ -1,1 +1,1 @@
-# machine-learning-zoomcam-2026-homework
+# machine-learning-zoomcamp-2026-homework
